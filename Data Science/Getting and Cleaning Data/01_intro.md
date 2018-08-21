@@ -48,3 +48,4 @@ camData <- read.xlsx('data/speed_excel.xlsx',sheetIndex=1,colIndex=colIndex,rowI
 
 ### write.xlsx() for writing Excel file
 ### xlsx2, XLConnect are other better options
+
